@@ -1,0 +1,5 @@
+lib/src/main/
+test-output/
+bin/
+gradle/
+allure-results/
